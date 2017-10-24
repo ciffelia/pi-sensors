@@ -4,6 +4,6 @@
 # Usage
 
 ```sh
-$ go get github.com/prince0203/pi-sensors
+$ go get -u github.com/prince0203/pi-sensors
+$ pi-sensors
 ```
-
